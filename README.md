@@ -1,3 +1,5 @@
+Assignment for a Computer Vision Class. 
+
 # ace-of-spades
 
 Download the .pgm images you'd like to analyze. Download the script. In the script, edit 'path1' to point to the directory the images are located in.
